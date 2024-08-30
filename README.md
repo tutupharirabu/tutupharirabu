@@ -9,7 +9,7 @@
 </div>
 
 <div align=center>
-  👋🏻 Greetings! My full name is Irfan Zharauri Nanda Sudiyanto, and you may call me "**_Irfan_**" or "**_Zara_**". I’m a student majoring in Information Technology, with a strong passion for both Games Development and Web Development.
+  👋🏻 Greetings! My full name is Irfan Zharauri Nanda Sudiyanto, and you may call me "_Irfan_" or "Zara. I’m a student majoring in Information Technology, with a strong passion for both Games Development and Web Development.
 
   🌱 From a young age, I’ve been fascinated by the world of games. Playing them brought me immense joy, and I was always captivated by the creativity and complexity behind their creation. As I grew older, I began honing my coding skills and exploring game design, which led me to realize that game development was my true calling. I relish the challenge of crafting something fresh and exhilarating and take great pride in witnessing the joy on people’s faces as they engage with my creations.
 
