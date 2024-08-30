@@ -27,9 +27,10 @@
   💫 I’m excited to continue growing in both fields and contributing to projects that bring happiness and value to others.
 </div>
 
-<hr/>
- 
+<br/>
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<hr/>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
