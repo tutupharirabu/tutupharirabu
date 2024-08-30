@@ -55,10 +55,8 @@
     <img src="https://github.com/tutupharirabu/tutupharirabu/blob/output/github-contribution-grid-snake.gif" />
 </div>
 
-
-
 <hr>
-<br>
+
 ©️ 2024 - Irfan Zharauri Nanda Sudiyanto
 
 
