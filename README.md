@@ -52,12 +52,8 @@
 
 <br/>
 <div align="center">
-    ⚪ fsfassdsadas
-
-  <br/>
-  <br/>
-  
-    ⚪ sdasdsad
+    <h3>&#bull; HTML</h3>
+    <h3>&bull; CSS</h3>
 </div>
 
 
