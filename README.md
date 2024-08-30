@@ -43,5 +43,12 @@
 
 <h2 align="left">Kontribusi Saya Tahun Ini!</h2>
 
+<br/>
+<div align="center">
+    <img src="https://github.com/tutupharirabuE/tutupharirabublob/output/github-contribution-grid-snake.gif" />
+</div>
+
+
+
 
 
