@@ -1,4 +1,4 @@
-<div align=center>
+<div align="center">
   <img width=500 src="https://github-readme-stats.vercel.app/api?username=tutupharirabu&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   
   <br/>
@@ -27,7 +27,7 @@
   💫 I’m excited to continue growing in both fields and contributing to projects that bring happiness and value to others.
 </div>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 <br/>
 <div align="center">
