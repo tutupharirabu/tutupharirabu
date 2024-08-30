@@ -50,9 +50,9 @@
 
 <h2 align="left">🔍 Hal Yang Sedang Saya Pelajari:</h2>
 
-<div align="left">
+<div>
     &ensp; &bull; MERN Stack and Generative AI/LLM. <br>
-    &ensp; &bull; Cloud Engineering & Tech Doch Writing.
+    &ensp; &bull; Cloud Engineering and Tech Doch Writing.
 </div>
 
 <hr>
