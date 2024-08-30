@@ -31,7 +31,7 @@
   💫 Whether it’s developing games or building dynamic websites, I’m driven by the desire to create experiences that resonate with people and leave a lasting impact. I firmly believe that both games and web applications have the power to unite individuals and forge enduring memories. As I continue to grow in both fields, I am excited about the endless possibilities they offer and look forward to contributing to projects that bring happiness and value to others.
 </div>
 
-<h2 align="left">🛠️      Languages, Tools, dan Framework Yang Digunakan:</h2>
+<h2 align="left">🛠️ Languages, Tools, dan Framework Yang Digunakan:</h2>
 
 <br/>
 <div align="center">
