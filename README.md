@@ -31,7 +31,7 @@
   💫 Whether it’s developing games or building dynamic websites, I’m driven by the desire to create experiences that resonate with people and leave a lasting impact. I firmly believe that both games and web applications have the power to unite individuals and forge enduring memories. As I continue to grow in both fields, I am excited about the endless possibilities they offer and look forward to contributing to projects that bring happiness and value to others.
 </div>
 
-<h2 align="left">🔍 Hal Yang Sedang Saya Pelajari:</h2>
+<h2 align="left">🔍 Hal yang sedang saya pelajari:</h2>
 
 <div margin-left: 100px>
     <h5> &bull; MERN Stack </h5>
@@ -40,7 +40,7 @@
     <h5> &bull; Guideline & Tech Docs Writing </h5> 
 </div>
 
-<h2 align="left">⚙️ Languages, Tools, dan Framework Yang Digunakan:</h2>
+<h2 align="left">⚙️ Languages, Tools, dan Framework saya gunakan:</h2>
 
 <br>
 <div align="center">
@@ -50,7 +50,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,react,vue,bootstrap,js,jquery,express,nodejs,laravel" /><br>
 </div>
 
-<h2 align="left">🐍 Kontribusi Saya Tahun Ini!</h2>
+<h2 align="left">🐍 Kontribusi saya tahun ini!</h2>
 
 <br>
 <div align="center">
