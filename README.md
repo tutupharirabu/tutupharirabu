@@ -31,6 +31,13 @@
   💫 Whether it’s developing games or building dynamic websites, I’m driven by the desire to create experiences that resonate with people and leave a lasting impact. I firmly believe that both games and web applications have the power to unite individuals and forge enduring memories. As I continue to grow in both fields, I am excited about the endless possibilities they offer and look forward to contributing to projects that bring happiness and value to others.
 </div>
 
+<h2 align="left">🔍 Hal Yang Sedang Saya Pelajari:</h2>
+
+<div margin-left: 100px>
+    &bull; MERN Stack and Generative AI/LLM. <br>
+    &bull; Cloud Engineering and Tech Doch Writing.
+</div>
+
 <h2 align="left">⚙️ Languages, Tools, dan Framework Yang Digunakan:</h2>
 
 <br>
@@ -48,12 +55,7 @@
     <img src="https://github.com/tutupharirabu/tutupharirabu/blob/output/github-contribution-grid-snake.gif" />
 </div>
 
-<h2 align="left">🔍 Hal Yang Sedang Saya Pelajari:</h2>
 
-<div margin-left: 100px>
-    &bull; MERN Stack and Generative AI/LLM. <br>
-    &bull; Cloud Engineering and Tech Doch Writing.
-</div>
 
 <hr>
 <br>
