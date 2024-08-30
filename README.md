@@ -40,7 +40,7 @@
     <h5> &bull; Guideline & Tech Docs Writing </h5> 
 </div>
 
-<h2 align="left">⚙️ Languages, Tools, dan Framework saya gunakan:</h2>
+<h2 align="left">⚙️ Languages, Tools, dan Frameworks yang saya gunakan:</h2>
 
 <br>
 <div align="center">
