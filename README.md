@@ -51,11 +51,13 @@
 <h2 align="left">🔍 Hal Yang Sedang Saya Pelajari:</h2>
 
 <div align="left">
-    &ensp; &bull; Halo <br>
-    &ensp; &bull; Cek
+    &ensp; &bull; MERN Stack and Generative AI/LLM. <br>
+    &ensp; &bull; Cloud Engineering & Tech Doch Writing.
 </div>
 
-
+<hr>
+<br>
+©️ 2024 - Irfan Zharauri Nanda Sudiyanto
 
 
 
