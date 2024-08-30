@@ -45,7 +45,7 @@
 
 <br/>
 <div align="center">
-    <img src="https://raw.githubusercontent.com/tutupharirabu/tutupharirabu/output/github-contribution-grid-snake.svg" />
+    <img src="https://github.com/tutupharirabu/tutupharirabu/blob/output/github-contribution-grid-snake.gif" />
 </div>
 
 
