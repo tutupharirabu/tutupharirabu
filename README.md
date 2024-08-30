@@ -8,6 +8,8 @@
   <img src="https://wakatime.com/badge/user/4ed81c28-2c72-4315-a893-295904236490/project/b1c00087-3b5b-4644-a016-c633f490a5dc.svg" />
 </div>
 
+<br/>
+
 <div>
   👋🏻 Greetings! My full name is Irfan Zharauri Nanda Sudiyanto, and you may call me "_Irfan_" or "Zara. I’m a student majoring in Information Technology, with a strong passion for both Games Development and Web Development.
 
