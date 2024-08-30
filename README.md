@@ -52,8 +52,8 @@
 
 <br/>
 <div align="left">
-    <h4>&bull; HTML</h4>
-    <h4>&bull; CSS</h4>
+    &bull; Halo
+    &bull; Cek
 </div>
 
 
