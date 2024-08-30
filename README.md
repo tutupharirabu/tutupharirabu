@@ -34,7 +34,7 @@
 <h2 align="left">🔍 Hal Yang Sedang Saya Pelajari:</h2>
 
 <div margin-left: 100px>
-    <h5> &bull; MERN Stack </h5>
+    <h6> &bull; MERN Stack </h6>
     <h5> &bull; Generative AI/LLM </h5> 
 </div>
 
