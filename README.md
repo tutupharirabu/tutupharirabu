@@ -56,7 +56,6 @@
 </div>
 
 <hr>
-<br>
 ©️ 2024 - Irfan Zharauri Nanda Sudiyanto
 
 
