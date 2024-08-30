@@ -27,8 +27,6 @@
   💫 I’m excited to continue growing in both fields and contributing to projects that bring happiness and value to others.
 </div>
 
-<br/>
-
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 <br/>
