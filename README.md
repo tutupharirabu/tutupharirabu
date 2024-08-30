@@ -41,11 +41,23 @@
     <img src="https://skillicons.dev/icons?i=html,css,react,vue,bootstrap,js,jquery,express,nodejs,laravel" /><br>
 </div>
 
-<h2 align="left">Kontribusi Saya Tahun Ini!</h2>
+<h2 align="left">🐍 Kontribusi Saya Tahun Ini!</h2>
 
 <br/>
 <div align="center">
     <img src="https://github.com/tutupharirabu/tutupharirabu/blob/output/github-contribution-grid-snake.gif" />
+</div>
+
+<h2 align="left">🔍 Hal Yang Sedang Saya Pelajari:</h2>
+
+<br/>
+<div align="center">
+    ⚪ fsfassdsadas
+
+  <br/>
+  <br/>
+  
+    ⚪ sdasdsad
 </div>
 
 
