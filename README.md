@@ -1,1 +1,1 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tutupharirabu" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tutupharirabu.visitor-badge&format=true" />
