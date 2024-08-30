@@ -20,11 +20,11 @@
 
   <br/>
 
-  🌐 My interest in web development has also grown, allowing me to craft visually appealing and functional websites. I love combining creativity and technology to build applications that leave a lasting impact.
+  🌐 In addition to my love for games, I’ve developed a deep interest in web development. The internet’s vast potential to connect people and provide unique, interactive experiences has always intrigued me. Just as games can transport players to new realms, well-designed websites have the power to engage users and offer them valuable experiences.
 
   <br/>
 
-  💫 I’m excited to continue growing in both fields and contributing to projects that bring happiness and value to others.
+  💫 Whether it’s developing games or building dynamic websites, I’m driven by the desire to create experiences that resonate with people and leave a lasting impact. I firmly believe that both games and web applications have the power to unite individuals and forge enduring memories. As I continue to grow in both fields, I am excited about the endless possibilities they offer and look forward to contributing to projects that bring happiness and value to others.
 </div>
 
 <h2 align="left">Languages, Tools, dan Framework Yang Digunakan:</h2>
