@@ -11,23 +11,24 @@
 <br/>
 
 <div>
-  <h4> 👋🏻 Greetings! My full name is Irfan Zharauri Nanda Sudiyanto, and you may call me "Irfan" or "Zara. I’m a student majoring in Information Technology, with a strong passion for both Games Development and Web Development. </h4>
+  👋🏻 Greetings! My full name is Irfan Zharauri Nanda Sudiyanto, and you may call me <h4>"Irfan"</h4> or <h4>"Zara"</h4>. I’m a student majoring in Information Technology, with a strong passion for both Games Development and Web Development.
+
+  <br/>
+  <br/>
+
+  🌱 From a young age, I’ve been fascinated by the world of games. Playing them brought me immense joy, and I was always captivated by the creativity and complexity behind their creation. As I grew older, I began honing my coding skills and exploring game design, which led me to realize that game development was my true calling. I relish the challenge of crafting something fresh and exhilarating and take great pride in witnessing the joy on people’s faces as they engage with my creations.
 
   <br/>
 
-  <h4> 🌱 From a young age, I’ve been fascinated by the world of games. Playing them brought me immense joy, and I was always captivated by the creativity and complexity behind their creation. As I grew older, I began honing my coding skills and exploring game design, which led me to realize that game development was my true calling. I relish the challenge of crafting something fresh and exhilarating and take great pride in witnessing the joy on people’s faces as they engage with my creations. </h4>
+  🌐 In addition to my love for games, I’ve developed a deep interest in web development. The internet’s vast potential to connect people and provide unique, interactive experiences has always intrigued me. Just as games can transport players to new realms, well-designed websites have the power to engage users and offer them valuable experiences.
 
   <br/>
 
-  <h4> 🌐 In addition to my love for games, I’ve developed a deep interest in web development. The internet’s vast potential to connect people and provide unique, interactive experiences has always intrigued me. Just as games can transport players to new realms, well-designed websites have the power to engage users and offer them valuable experiences. </h4>
+   🚀 My journey into web development has allowed me to combine my creative and technical skills to build visually appealing, user-friendly websites that serve various purposes—from entertainment to information dissemination. I’m particularly passionate about creating web applications that are both functional and aesthetically pleasing. The process of designing intuitive interfaces, ensuring smooth user interactions, and bringing innovative ideas to life on the web excites me.
 
   <br/>
 
-  <h4>  🚀 My journey into web development has allowed me to combine my creative and technical skills to build visually appealing, user-friendly websites that serve various purposes—from entertainment to information dissemination. I’m particularly passionate about creating web applications that are both functional and aesthetically pleasing. The process of designing intuitive interfaces, ensuring smooth user interactions, and bringing innovative ideas to life on the web excites me. </h4>
-
-  <br/>
-
-  <h4> 💫 Whether it’s developing games or building dynamic websites, I’m driven by the desire to create experiences that resonate with people and leave a lasting impact. I firmly believe that both games and web applications have the power to unite individuals and forge enduring memories. As I continue to grow in both fields, I am excited about the endless possibilities they offer and look forward to contributing to projects that bring happiness and value to others. </h4>
+  💫 Whether it’s developing games or building dynamic websites, I’m driven by the desire to create experiences that resonate with people and leave a lasting impact. I firmly believe that both games and web applications have the power to unite individuals and forge enduring memories. As I continue to grow in both fields, I am excited about the endless possibilities they offer and look forward to contributing to projects that bring happiness and value to others.
 </div>
 
 <h2 align="left">⚙️ Languages, Tools, dan Framework Yang Digunakan:</h2>
