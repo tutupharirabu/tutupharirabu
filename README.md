@@ -11,7 +11,7 @@
 <br/>
 
 <div>
-  👋🏻 Greetings! My full name is Irfan Zharauri Nanda Sudiyanto, and you may call me <h4>"Irfan"</h4> or <h4>"Zara"</h4>. I’m a student majoring in Information Technology, with a strong passion for both Games Development and Web Development.
+  👋🏻 Greetings! My full name is Irfan Zharauri Nanda Sudiyanto, and you may call me "<b><i>Irfan</i></b>" or "<b><i>Zara</i></b>" I’m a student majoring in Information Technology, with a strong passion for both Games Development and Web Development.
 
   <br/>
   <br/>
