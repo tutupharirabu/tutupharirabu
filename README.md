@@ -51,8 +51,8 @@
 <h2 align="left">🔍 Hal Yang Sedang Saya Pelajari:</h2>
 
 <div align="left">
-    &bull; Halo <br>
-    &bull; Cek
+    &nbsp; &bull; Halo <br>
+    &nbsp; &bull; Cek
 </div>
 
 
