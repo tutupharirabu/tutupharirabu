@@ -4,5 +4,5 @@
   <br/>
   <br/>
   
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=tutupharirabu.visitor-badge" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=tutupharirabu.visitor-badge&left_text=Profile%20Views" />
 </div>
