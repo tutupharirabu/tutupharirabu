@@ -1,1 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tutupharirabu.visitor-badge&format=true" />
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=tutupharirabu" />
+</div>
