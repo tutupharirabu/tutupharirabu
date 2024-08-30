@@ -27,7 +27,7 @@
   💫 I’m excited to continue growing in both fields and contributing to projects that bring happiness and value to others.
 </div>
 
-<h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="left">Languages, Tools & Framework Yang Digunakan</h2>
 
 <br/>
 <div align="center">
