@@ -50,7 +50,7 @@
 
 <h2 align="left">🔍 Hal Yang Sedang Saya Pelajari:</h2>
 
-<div margin-left=20px>
+<div margin-left: 100px>
     &bull; MERN Stack and Generative AI/LLM. <br>
     &bull; Cloud Engineering and Tech Doch Writing.
 </div>
