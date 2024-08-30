@@ -52,8 +52,8 @@
 
 <br/>
 <div align="center">
-    <h3>&#bull; HTML</h3>
-    <h3>&bull; CSS</h3>
+    <h4>&bull; HTML</h4>
+    <h4>&bull; CSS</h4>
 </div>
 
 
