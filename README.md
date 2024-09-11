@@ -44,8 +44,8 @@
 
 <br>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=figma,ai,ps" />
-    <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+    <img src="https://skillicons.dev/icons?i=figma,ai,ps" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,postgres" /><br>
     <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,kubernetes,aws,gcp" /><br>
     <img src="https://skillicons.dev/icons?i=html,css,vue,bootstrap,js,laravel" /><br>
 <!--     <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite" /><br> -->
