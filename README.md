@@ -35,7 +35,7 @@
 
 <div margin-left: 100px>
     <h5> &bull; MERN Stack </h5>
-    <h5> &bull; Generative AI/LLM </h5> 
+    <h5> &bull; Generative AI & LLM </h5> 
     <h5> &bull; Cloud Engineering </h5> 
     <h5> &bull; Guideline & Tech Docs Writing </h5> 
 </div>
@@ -44,10 +44,10 @@
 
 <br>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=figma,ai,ps" /><br>
     <img src="https://skillicons.dev/icons?i=mysql,postgres" /><br>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,kubernetes,aws,gcp" /><br>
+    <img src="https://skillicons.dev/icons?i=figma,ai,ps" /><br>
     <img src="https://skillicons.dev/icons?i=html,css,vue,bootstrap,js,laravel" /><br>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,kubernetes,aws,gcp" /><br>
 <!--     <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite" /><br> -->
 <!--     <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,kubernetes,aws,gcp" /><br> -->
 <!--     <img src="https://skillicons.dev/icons?i=html,css,react,vue,bootstrap,js,jquery,express,nodejs,laravel" /><br> -->
