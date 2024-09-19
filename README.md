@@ -56,8 +56,13 @@
 <h2 align="left">🐍 Kontribusi saya tahun ini!</h2>
 
 <br>
+
 <div align="center">
-    <img src="https://github.com/tutupharirabu/tutupharirabu/blob/output/github-contribution-grid-snake.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tutupharirabu/tutupharirabu/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tutupharirabu/tutupharirabu/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tutupharirabu/tutupharirabu/output/github-contribution-grid-snake.svg">
+</picture>
 </div>
 
 <hr>
