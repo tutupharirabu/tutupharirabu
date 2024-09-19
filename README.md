@@ -57,7 +57,7 @@
 
 <br>
 <div align="center">
-    <img src="https://github.com/tutupharirabu/tutupharirabu/blob/output/github-contribution-grid-snake.gif" />
+    https://github.com/tutupharirabu/tutupharirabu/blob/output/github-contribution-grid-snake.gif
 </div>
 
 <hr>
