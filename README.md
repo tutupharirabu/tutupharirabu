@@ -66,7 +66,7 @@
 
 <hr>
 
-©️ 2024 - Irfan Zharauri Nanda Sudiyanto
+©️ 2025 - Irfan Zharauri Nanda Sudiyanto
 
 
 
