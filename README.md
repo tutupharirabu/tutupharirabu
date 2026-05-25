@@ -1,42 +1,52 @@
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tutupharirabu&theme=dark-minimalist&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
-  
+  <table border="0" cellspacing="0" cellpadding="10">
+    <tr>
+      <td valign="center">
+        <a href="https://git.io/streak-stats">
+          <img src="https://streak-stats.demolab.com?user=tutupharirabu&theme=dark-minimalist&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+        </a>
+      </td>
+      <td valign="center">
+        <img src="https://raw.githubusercontent.com/tutupharirabu/github-stats-transparent/output/generated/languages.svg" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+
   <br>
-  <br>
-  
+
   <img src="https://visitor-badge.laobi.icu/badge?page_id=tutupharirabu.visitor-badge&left_text=Profile%20Views" />
   <img src="https://wakatime.com/badge/user/4ed81c28-2c72-4315-a893-295904236490.svg" alt="Total time coded since Aug 30 2024" />
 </div>
 
-<br>
-
-<div>
-  👋🏻 Greetings! My full name is Irfan Zharauri Nanda Sudiyanto, and you may call me "<b><i>Irfan</i></b>" or "<b><i>Zara</i></b>" I’m a student majoring in Information Technology, with a strong passion for both Games Development and Web Development.
-
-  <br>
   <br>
 
-  🌱 From a young age, I’ve been fascinated by the world of games. Playing them brought me immense joy, and I was always captivated by the creativity and complexity behind their creation. As I grew older, I began honing my coding skills and exploring game design, which led me to realize that game development was my true calling. I relish the challenge of crafting something fresh and exhilarating and take great pride in witnessing the joy on people’s faces as they engage with my creations.
+  👋🏻 Hi! My full name is Irfan Zharauri Nanda Sudiyanto, feel free to call me <b><i>Irfan</i></b> or <b><i>Zara</i></b>.
+  A fresh graduate from Telkom University's Information Technology program, now actively working in IT Infrastructure, Backend Development, and Cybersecurity.
 
   <br>
 
-  🌐 In addition to my love for games, I’ve developed a deep interest in web development. The internet’s vast potential to connect people and provide unique, interactive experiences has always intrigued me. Just as games can transport players to new realms, well-designed websites have the power to engage users and offer them valuable experiences.
+  🛠️ My day-to-day revolves around servers, systems, and making sure everything runs securely and efficiently, from VPS setup and network configuration to building internal tools and automation systems.
 
   <br>
 
-   🚀 My journey into web development has allowed me to combine my creative and technical skills to build visually appealing, user-friendly websites that serve various purposes—from entertainment to information dissemination. I’m particularly passionate about creating web applications that are both functional and aesthetically pleasing. The process of designing intuitive interfaces, ensuring smooth user interactions, and bringing innovative ideas to life on the web excites me.
+  🌐 My background in web development taught me to think systematically and care about user experience. Now I apply that mindset to a broader scope: designing digital infrastructure that's robust, secure, and scalable.
 
   <br>
 
-  💫 Whether it’s developing games or building dynamic websites, I’m driven by the desire to create experiences that resonate with people and leave a lasting impact. I firmly believe that both games and web applications have the power to unite individuals and forge enduring memories. As I continue to grow in both fields, I am excited about the endless possibilities they offer and look forward to contributing to projects that bring happiness and value to others.
+  🔐 Cybersecurity is an area I'm deepening. Understanding not just how to defend, but how systems are architected to be resilient, how attacks happen, and how to respond effectively when incidents occur.
+
+  <br>
+
+  💡 Beyond the technical work, I'm also a co-founder of a few tech-based ventures. I believe the best solutions come from combining strong technical foundations with a genuine understanding of real-world needs.
 </div>
 
-<h2 align="left">🔍 Hal yang sedang saya pelajari:</h2>
+<h2 align="left">🔍 Yang sedang saya pelajari / Currently learning:</h2>
 
-<div margin-left: 100px>
-    <h5> &bull; Cloud Computing & Infrastructure </h5> 
-    <h5> &bull; Generative AI & LLM </h5> 
-    <h5> &bull; Guideline & Tech Docs Writing </h5> 
+<div>
+    <h5> &bull; IT Infrastructure & Cloud Architecture </h5>
+    <h5> &bull; Cybersecurity & GRC (ISO 27001, TOGAF) </h5>
+    <h5> &bull; Backend Systems & API Design </h5>
+    <h5> &bull; AI/LLM Integration & Agentic Systems </h5>
 </div>
 
 <h2 align="left">⚙️ Languages, Tools, dan Frameworks yang saya gunakan:</h2>
@@ -44,12 +54,10 @@
 <br>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=mysql,postgres" /><br>
-    <img src="https://skillicons.dev/icons?i=figma,ai,ps" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,vue,bootstrap,js,laravel" /><br>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,kubernetes,aws,gcp" /><br>
-<!--     <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite" /><br> -->
-<!--     <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,kubernetes,aws,gcp" /><br> -->
-<!--     <img src="https://skillicons.dev/icons?i=html,css,react,vue,bootstrap,js,jquery,express,nodejs,laravel" /><br> -->
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash" /><br>
+    <img src="https://skillicons.dev/icons?i=figma,ai,ps,notion" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,vue,js,laravel,php" /><br>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,nginx,cloudflare,gcp" /><br>
 </div>
 
 <h2 align="left">🐍 Kontribusi saya tahun ini!</h2>
@@ -64,7 +72,4 @@
 
 <hr>
 
-©️ 2025 - Irfan Zharauri Nanda Sudiyanto
-
-
-
+©️ 2026 - Irfan Zharauri Nanda Sudiyanto
