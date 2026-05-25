@@ -35,11 +35,6 @@
 
   🔐 Cybersecurity is an area I'm deepening. Understanding not just how to defend, but how systems are architected to be resilient, how attacks happen, and how to respond effectively when incidents occur.
 
-  <br>
-
-  💡 Beyond the technical work, I'm also a co-founder of a few tech-based ventures. I believe the best solutions come from combining strong technical foundations with a genuine understanding of real-world needs.
-</div>
-
 <h2 align="left">🔍 Yang sedang saya pelajari / Currently learning:</h2>
 
 <div>
