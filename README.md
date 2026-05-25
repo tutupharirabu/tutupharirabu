@@ -1,5 +1,5 @@
 <div align="center">
-  <img width=500 src="https://github-readme-stats.vercel.app/api?username=tutupharirabu&count_private=true&show_icons=true&theme=react&border_radius=10" alt="readme stats" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tutupharirabu&theme=dark-minimalist&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
   
   <br>
   <br>
