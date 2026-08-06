@@ -31,10 +31,10 @@ A fresh graduate from Telkom University's Information Technology program, now ac
 
 | Project | What I Built | Stack |
 |---------|--------------|-------|
+| [**whatsapp-telegram-bot**](https://github.com/tutupharirabu/whatsapp-telegram-bot) | WhatsApp & Telegram auto messenger for GCAF 2026 — automated multi-platform messaging pipeline. | Python · ⚙️ WIP |
+| [**pdf-gate**](https://github.com/tutupharirabu/pdf-gate) | Dual-layer PDF document validator for Indonesian formal documents — built-in schemas, auto schema generation, zero-trust security. | JavaScript · ⚙️ WIP |
 | [**NyuwunSewu · ShieldPDP**](https://github.com/tutupharirabu/NyuwunSewu-ShieldPDP-Project) | Compliance-driven security validation & privacy risk management platform — UU PDP/OWASP ASVS mapping, PII detection, API scanning, and Phantom AI agent for interactive vulnerability exploration. | FastAPI · React · 🔒 Private |
 | [**MatchaKo**](https://matchakoofficial.com) | Official landing page for Indonesia's street matcha brand — menu showcase, partnership packages, ROI calculator, and WhatsApp consultation funnel. | Astro · 🚀 Live |
-| [**pdf-gate**](https://github.com/tutupharirabu/pdf-gate) | Dual-layer PDF document validator for Indonesian formal documents — built-in schemas, auto schema generation, zero-trust security. | JavaScript · ⚙️ WIP |
-| [**whatsapp-telegram-bot**](https://github.com/tutupharirabu/whatsapp-telegram-bot) | WhatsApp & Telegram auto messenger for GCAF 2026 — automated multi-platform messaging pipeline. | Python · ⚙️ WIP |
 | [**Project-BTP**](https://github.com/tutupharirabu/Project-BTP) · [Live](https://spacerentbtp.com) | Room & equipment rental management system for Bandung Techno Park — booking, rental, and administration for admins, staff, and tenants. | Laravel · Blade · 🧪 Prototype |
 
 ## 📚 Currently Learning
