@@ -1,8 +1,17 @@
 <div align="center">
-  <img src="./profile/streak.svg" alt="GitHub Streak Stats" />
+  <table border="0" cellspacing="0" cellpadding="10">
+    <tr>
+      <td valign="center">
+        <img src="./profile/streak.svg" alt="GitHub Streak Stats" />
+      </td>
+      <td valign="center">
+        <img src="https://raw.githubusercontent.com/tutupharirabu/github-stats-transparent/output/generated/languages.svg" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+
   <br>
-  <img src="https://raw.githubusercontent.com/tutupharirabu/github-stats-transparent/output/generated/languages.svg" alt="Top Languages" />
-  <br><br>
+
   <img src="https://visitor-badge.laobi.icu/badge?page_id=tutupharirabu.visitor-badge&left_text=Profile%20Views" alt="Profile Views" />
   <img src="https://wakatime.com/badge/user/4ed81c28-2c72-4315-a893-295904236490.svg" alt="Total time coded since Aug 30 2024" />
 </div>
