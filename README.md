@@ -57,7 +57,7 @@ A fresh graduate from Telkom University's Information Technology program, now ac
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tutupharirabu&theme=merko&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://trophy.benkou.dev/?username=tutupharirabu&theme=merko&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ## 🐍 My Contributions This Year
