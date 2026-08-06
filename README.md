@@ -54,6 +54,12 @@ A fresh graduate from Telkom University's Information Technology program, now ac
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,nginx,cloudflare,gcp" alt="Git, GitHub, VS Code, Postman, Docker, Nginx, Cloudflare, GCP" /><br>
 </div>
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tutupharirabu&theme=merko&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
+
 ## 🐍 My Contributions This Year
 
 <div align="center">
