@@ -39,6 +39,7 @@ A fresh graduate from Telkom University's Information Technology program, now ac
 | [**pdf-gate**](https://github.com/tutupharirabu/pdf-gate) | Dual-layer PDF document validator for Indonesian formal documents — 8 built-in schemas, auto schema generation, and zero-trust security. | Node.js · pdfjs-dist · Tesseract.js · Jest · Express |
 | [**NyuwunSewu · ShieldPDP**](https://github.com/tutupharirabu/NyuwunSewu-ShieldPDP-Project) | Compliance-driven security validation & privacy risk management platform — UU PDP/OWASP ASVS mapping, PII detection, API scanning, and Phantom AI agent (Hermes) for interactive vulnerability exploration. | FastAPI · React · TypeScript · PostgreSQL · Redis · Celery · Hermes |
 | [**MatchaKo**](https://matchakoofficial.com) | Official landing page for Indonesia's street matcha brand — menu showcase, partnership packages, ROI calculator, and WhatsApp consultation funnel. | Astro 5 · Preact · Tailwind · Cloudflare D1 · Drizzle |
+| [**Arcadia · Project Avalon**](https://github.com/tutupharirabu/Arcadia-ProjectAvalon) | IoT monitoring platform for water pump sensors & control — Laravel 11 API, Node.js MQTT bridge, and a Vue 3 dashboard for real-time sensor data. | Laravel 11 · Node.js · MQTT · Vue 3 · Redis |
 | [**Project-BTP**](https://github.com/tutupharirabu/Project-BTP) · [Live](https://spacerentbtp.com) | Room & equipment rental management system for Bandung Techno Park — booking, rental, and administration for admins, staff, and tenants. | Laravel 10 · Blade · Bootstrap · PostgreSQL · Redis |
 
 ## 📚 Currently Learning
